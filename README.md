@@ -21,7 +21,7 @@ You will find the installing instructions [here](https://github.com/AlpenSystems
 
 ## Do you like our bot? :heart:
 Support us by joining our __[Discord](https://discord.gg/RsFEUzv)__. :star: <br>
-Also help us by creating __[issues](https://github.com/AlpenSystems/AlpenRadio/issues)__. 😎
+Also help us by reporting __[issues](https://github.com/AlpenSystems/AlpenRadio/issues)__. 😎
 
 # License
 ```xml
