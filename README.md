@@ -1,8 +1,5 @@
 <h1 align="center">AlpenRadio</h1>
 <h3 align="center">A Discord Bot for Online-Radio. [Plays .m3u files]</h3>
-</br>
-</br>
-</br>
 <p align="center">
   <a href="https://opensource.org/licenses/MPL-2.0"><img alt="License" src="https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg?style=flat-square&logo=appveyor"/></a>
   <a href="https://github.com/DV8FromTheWorld/JDA"><img alt="License" src="https://img.shields.io/badge/JDA-4.2.0__191-brightgreen.svg?style=flat-square&logo=appveyor"/></a>
@@ -10,6 +7,12 @@
   <a href="https://github.com/AlpenSystems/AlpenRadio/releases"><img alt="License" src="https://img.shields.io/badge/Download-.jar-brightgreen.svg?style=flat-square&logo=appveyor"/></a>
   <a href="https://github.com/AlpenSystems/AlpenRadio/wiki"><img alt="License" src="https://img.shields.io/badge/WIKI-here-blue.svg?style=flat-square&logo=appveyor"/></a>
 </p>
+<p align="center">
+<img alt="Logo" width="300" src="https://cdn.discordapp.com/attachments/743877060895965264/745682765521092609/Unbenannt-4.svg?style=flat-square&logo=appveyor"/>
+</p>
+</br>
+</br>
+</br>
 
 ## Download
 Go to [Releases](https://github.com/AlpenSystems/AlpenRadio/releases) to download the lastest .jar.
